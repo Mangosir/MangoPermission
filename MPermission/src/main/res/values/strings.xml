@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="title">友情提醒</string>
+    <string name="content_first_half">因为某些权限申请被拒绝了，为了给您提供更好的服务，请开启相关权限，拒绝后您将无法正常使用本应用的某些功能。</string>
+    <string name="content_second_half">设置路径：设置-->应用-->%1$s-->权限</string>
+    <string name="negative">拒绝</string>
+    <string name="positive">设置</string>
+
+
+</resources>
