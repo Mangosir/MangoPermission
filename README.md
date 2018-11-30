@@ -4,7 +4,7 @@ Permission request：
 
 blog：https://blog.csdn.net/qq_30993595/article/details/84645263
 
-### How to get this libaray into your build:
+### How to get this library into your build:
 
 * Step 1. Add the JitPack repository to your build file
 
